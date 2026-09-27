@@ -4,7 +4,7 @@
 
 > **Sorting Visualizer** Visualizes the runtime behaviour of standard Sorting Algorithms by means of 2D-Animations on a Webpage .
 
-Check out Here https://ksv1729.github.io/Sort-Visualizer/.
+Check out the live demo: https://vamsii29.github.io/Sort-Visualizer/
 
 Or Clone this repo in your local machine and Click on `Index.html.`
 
